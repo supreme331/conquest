@@ -815,4 +815,10 @@ body {
     }
   }
 
+  .news {
+    &__content {
+      min-width: 350px;
+    }
+  }
+
 }
